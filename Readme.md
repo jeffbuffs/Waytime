@@ -12,3 +12,4 @@ go build main.go
 mv main waytime
 ```
 #### How To Use or Use Case
+https://t.co/dNKKaiYMq8
